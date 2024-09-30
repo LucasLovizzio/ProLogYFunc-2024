@@ -1,0 +1,1 @@
+progenitor_de(Progenitor, Hijo_a):= madre_de(Progenitor,Hijo_a) ; padre_de(Progenitor,Hijo_a)
