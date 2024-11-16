@@ -1,7 +1,7 @@
-%Predicado que relaciona una lista L1 y un elemento A perteneciente a la misma, con otra
-%lista L2, formada con los mismos elementos de L1, menos A.
-%?menos1(d, [a, b, c, d, e, f, g, h, i, j], X).
-%X = [a, b, c, e, f, g, h, i, j]
+% Predicado que relaciona una lista L1 y un elemento A perteneciente a la misma, con otra
+% lista L2, formada con los mismos elementos de L1, menos A.
+% ?menos1(d, [a, b, c, d, e, f, g, h, i, j], X).
+% X = [a, b, c, e, f, g, h, i, j]
 
 % Predicado menos1/3
 % menos1(Elemento, ListaOriginal, ListaSinElemento)
